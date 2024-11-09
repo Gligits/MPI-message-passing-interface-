@@ -1,5 +1,6 @@
 # Installing mpi on your linux machine : 
 sudo apt-get update
+
 sudo apt install mpich 
 
 # Once installed, you can check if MPICH is available by running:
